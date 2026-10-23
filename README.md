@@ -72,7 +72,7 @@ PTVSClaimInjector.sol
 The core contract responsible for verifying judicial signatures and issuing standardized identity claims to the asset's ONCHAINID Identity contract.
 
 Solidity
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: BSL-1.1
 pragma solidity ^0.8.20;
 
 import "@onchainid/solidity/contracts/interface/IIdentity.sol";
