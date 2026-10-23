@@ -139,4 +139,13 @@ Executive Summary: Prop Trust Verified Standard Specification
 Official Governance & Author: D. Aurelio Tamarit Blay, Certified Judicial Expert (Exp. Nº 0161), Founder of Aurema Group L.L.C.
 
 ⚖️ License
-Distributed under the MIT License. See LICENSE for more information
+
+This repository, including the core smart contract implementation and documentation, is licensed under the **Business Source License 1.1 (BSL 1.1)**. 
+
+This license permits non-commercial academic research, testing, and commercial use ONLY for projects with a Total Value Locked (TVL) or appraised RWA value strictly under $5,000,000 USD. Any commercial production use exceeding this threshold requires a separate commercial license from Aurema Group LLC. 
+
+On October 22, 2029, this code will automatically transition to the MIT License.
+
+See the `LICENSE` file in the root of this repository for the full legal text.
+
+*VERITAS IN RE · CERTITUDO IN CODE · HONOR IN AETERNUM*
